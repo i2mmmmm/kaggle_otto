@@ -38,7 +38,7 @@ Unable to allocate 22.6 TiB for an array with shape (3102202662209,) and data ty
 -> 전체 모델에서 예측한 값 중 가장 많은 값을 최종 예측값으로 선정
 2)continuous data - 평균
 -> 결정값의 평균으로 최종 예측값 선정
-- 배깅은 간단, 파워풀 ex)랜덤 포레스트
+ 배깅은 간단, 파워풀 ex)랜덤 포레스트
 
 * 부스팅 : 가중치를 활용하여 약 분류기를 강 분류기로 만드는 방법
 
