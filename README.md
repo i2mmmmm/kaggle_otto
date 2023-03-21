@@ -73,4 +73,4 @@ jsonl 파일을 처음 다뤄봤고, chunk를 처음 사용해봤다.
 
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Microsoft Excel-217346?style=flat&logo=Excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=Microsoft Excel&logoColor=white"/>
