@@ -68,11 +68,3 @@ pandas와는 조금 다른 사용법이라 공부가 필요함.
 jsonl 파일을 처음 다뤄봤고, chunk를 처음 사용해봤다.
 그리고 교육에서는 배우지 않았던 polars를 알게 되어 좋았다.
 
-
-<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=Microsoft Excel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
