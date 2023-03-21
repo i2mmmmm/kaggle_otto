@@ -70,4 +70,4 @@ jsonl 파일을 처음 다뤄봤고, chunk를 처음 사용해봤다.
 
 
 <img src="https://img.shields.io/badge/R-276DC3?
-style=flat&logo=R Boot&logoColor=white"/>
+style=flat&logo=R&logoColor=white"/>
