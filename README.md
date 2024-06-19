@@ -1,4 +1,5 @@
 # kaggle_otto
+💻 https://www.kaggle.com/competitions/otto-recommender-system
 
 **0. 캐글 데이터 코랩에서 받기**
 참조 : https://han-py.tistory.com/279
